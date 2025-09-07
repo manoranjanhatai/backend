@@ -1,0 +1,11 @@
+name,description,causes,precautions,reference_links
+"Earthquake","A sudden shaking of the ground caused by seismic waves.","Tectonic plate movement, Volcanic activity.","Drop, Cover, Hold On. Stay away from windows.","https://www.ready.gov/earthquakes"
+"Tsunami","A series of large ocean waves due to underwater earthquakes or volcanic eruptions.","Underwater earthquakes, Volcanic eruptions.","Move to higher ground, Avoid beaches.","https://www.tsunami.noaa.gov/"
+"Flood","Overflow of water that submerges land.","Heavy rainfall, Melting glaciers.","Avoid floodwater, Move to higher ground.","https://www.redcross.org/flood"
+"Hurricane","A violent storm with strong winds and rain.","Warm ocean water, Atmospheric instability.","Stay indoors, Secure loose objects.","https://www.nhc.noaa.gov/"
+"Heatwave","A prolonged period of extreme high temperatures causing health issues.","Climate change, high-pressure systems, urban heat effect.","Stay hydrated, avoid outdoor activities, use cooling systems.","https://www.cdc.gov/disasters/extremeheat/index.html"
+"Landslide","Sudden movement of rock, soil, or debris down a slope, causing","Heavy rain, earthquakes, deforestation, human activities.","Avoid steep slopes, plant trees to stabilize soil, follow warnings.","https://www.usgs.gov/programs/landslide-hazards"
+"Volcanic Eruption","The release of molten lava, ash, and gases from a volcano, causing destruction.","Magma pressure buildup, tectonic movements, earthquakes.","Stay indoors, wear masks, evacuate if necessary.","https://www.usgs.gov/natural-hazards/volcano-hazards/"
+"Wildfire","An uncontrolled fire spreading rapidly in forests or grasslands.","Dry weather, lightning, human negligence, strong winds.","Avoid open flames, clear flammable vegetation, follow fire bans.","https://www.nifc.gov/"
+"Blizzard","A severe snowstorm with strong winds and low visibility, leading to extreme cold.","Cold air masses, moisture, strong winds.","Stay indoors, wear warm clothing, stock up on supplies.","https://www.weather.gov/safety/winter"
+"Drought","A long period of insufficient rainfall leading to water shortages.","Climate change, deforestation, overuse of water.","Conserve water, implement sustainable farming, store water efficiently.","https://droughtmonitor.unl.edu/"
